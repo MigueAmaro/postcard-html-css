@@ -1,2 +1,12 @@
-# postcard-html-css
-Postcard project basic html css
+# Postcard HTML CSS
+
+Creating a postcard with basic HTML5 and CSS
+
+
+
+
+## Authors
+
+- [@Miguel Amaro](https://www.github.com/MigueAmaro)
+
+
